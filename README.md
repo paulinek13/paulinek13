@@ -3,10 +3,18 @@
 ### Some of my creations ...
 
 - **[neso](https://neso.vercel.app/)** - Enhanced APOD Explorer
+- [apod-extended](https://github.com/paulinek13/apod-extended) - APOD enhancer for neso
 - [launches](https://perseid.vercel.app/launches) - See upcoming launches
 - [todo](https://paulinek13.github.io/todo/) - PWA offline working todo app
 - [niziek-portfolio](https://niziek-portfolio.pages.dev/) - A photography portfolio website
 - [sudoku](https://github.com/paulinek13/sudoku) - Multipurpose sudoku app
+- [AllPaulinek](https://github.com/paulinek13/AllPaulinek) - A little game library based on Allegro5
+- [Snake Game](https://github.com/paulinek13/Snake-Game) - Written in C++ and Allegro5
+
+### Open source projects I contributed to:
+
+- [ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software | [↗️](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
+- [TabTabTab](https://github.com/okaryo/TabTabTab) - All In One Chrome Tab Manager | [↗️](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
 
 ## My skills
 
