@@ -1,6 +1,6 @@
 # Hi there, I'm Paulina 👋
 
-### Some of my creations ...
+## Some of my creations
 
 - **[neso](https://neso.vercel.app/)** - Enhanced APOD Explorer
 - [apod-extended](https://github.com/paulinek13/apod-extended) - APOD enhancer for neso
@@ -11,33 +11,34 @@
 - [AllPaulinek](https://github.com/paulinek13/AllPaulinek) - A little game library based on Allegro5
 - [Snake Game](https://github.com/paulinek13/Snake-Game) - Written in C++ and Allegro5
 
-### Open source projects I contributed to:
+## Open-Source projects I contributed to
 
-- [ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software | [↗️](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
-- [TabTabTab](https://github.com/okaryo/TabTabTab) - All In One Chrome Tab Manager | [↗️](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
+- [Puter](https://github.com/HeyPuter/puter) _The Internet OS! Free, Open-Source, and Self-Hostable_ [`sync(i18n): add Polish translations for billing-related terms`](https://github.com/HeyPuter/puter/pull/993)
+- [ghostfolio](https://github.com/ghostfolio/ghostfolio) _Open Source Wealth Management Software_ [`Feature/improve language localization for pl`](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
+- [Espanso's Hub](https://github.com/espanso/hub) _The official Espanso's package repository_ [`Add tailwindcss-colors Package to Espanso Hub`](https://github.com/espanso/hub/pull/141)
+- [TabTabTab](https://github.com/okaryo/TabTabTab) _All In One Chrome Tab Manager_ [`pl-translation`](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
 
-## My skills
+##
 
-![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
-![html5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3)
-![c++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B)
-![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-![node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)
-![svelte](https://img.shields.io/badge/svelte-000?style=for-the-badge&logo=svelte)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss)
-![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=WordPress)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
-![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel)
-![supabase](https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase)
-![appwrite](https://img.shields.io/badge/appwrite-000?style=for-the-badge&logo=appwrite)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 
-![visual-studio-code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code)
-![visual-studio](https://img.shields.io/badge/Visual%20Studio-000?style=for-the-badge&logo=visual-studio)
-![Obsidian](https://img.shields.io/badge/Obsidian-000?style=for-the-badge&logo=Obsidian)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
