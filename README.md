@@ -1,5 +1,7 @@
 # Hi there, I'm Paulina 👋
 
+I'm currently working on [osress](https://github.com/paulinek13/osress) website
+
 ## Some of my creations
 
 - **[neso](https://neso.vercel.app/)** - Enhanced APOD Explorer
