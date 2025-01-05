@@ -15,10 +15,21 @@ I'm currently working on [osress](https://github.com/paulinek13/osress) website
 
 ## Open-Source projects I contributed to
 
-- [Puter](https://github.com/HeyPuter/puter) _The Internet OS! Free, Open-Source, and Self-Hostable_ [`sync(i18n): add Polish translations for billing-related terms`](https://github.com/HeyPuter/puter/pull/993)
-- [ghostfolio](https://github.com/ghostfolio/ghostfolio) _Open Source Wealth Management Software_ [`Feature/improve language localization for pl`](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
-- [Espanso's Hub](https://github.com/espanso/hub) _The official Espanso's package repository_ [`Add tailwindcss-colors Package to Espanso Hub`](https://github.com/espanso/hub/pull/141)
-- [TabTabTab](https://github.com/okaryo/TabTabTab) _All In One Chrome Tab Manager_ [`pl-translation`](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
+- ⭐27k [**Puter**](https://github.com/HeyPuter/puter)  
+_The Internet OS! Free, Open-Source, and Self-Hostable_  
+`sync(i18n): add Polish translations for billing-related terms` [➚](https://github.com/HeyPuter/puter/pull/993)
+- ⭐15k [**lima**](https://github.com/lima-vm/lima)  
+_Linux virtual machines, with a focus on running containers_  
+`website: remove sidebar search box and enhance the one in the top navigation bar` [➚](https://github.com/lima-vm/lima/pull/3064)
+- ⭐4k [**ghostfolio**](https://github.com/ghostfolio/ghostfolio)  
+_Open Source Wealth Management Software_  
+`Feature/improve language localization for pl` [➚](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
+- ⭐50 [**Espanso's Hub**](https://github.com/espanso/hub)  
+_The official Espanso's package repository_  
+`Add tailwindcss-colors Package to Espanso Hub` [➚](https://github.com/espanso/hub/pull/141)
+- ⭐20 [**TabTabTab**](https://github.com/okaryo/TabTabTab)  
+_All In One Chrome Tab Manager_  
+`pl-translation` [➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
 
 ##
 
