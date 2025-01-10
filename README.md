@@ -13,23 +13,53 @@ I'm currently working on [osress](https://github.com/paulinek13/osress) website
 - [AllPaulinek](https://github.com/paulinek13/AllPaulinek) - A little game library based on Allegro5
 - [Snake Game](https://github.com/paulinek13/Snake-Game) - Written in C++ and Allegro5
 
-## Open-Source projects I contributed to
+## Open-Source projects I contributed to _(sorted by ⭐)_
 
-- ⭐27k [**Puter**](https://github.com/HeyPuter/puter)  
+- ⭐27.5k [**HeyPuter/puter**](https://github.com/HeyPuter/puter)  
 _The Internet OS! Free, Open-Source, and Self-Hostable_  
-`sync(i18n): add Polish translations for billing-related terms` [➚](https://github.com/HeyPuter/puter/pull/993)
-- ⭐15k [**lima**](https://github.com/lima-vm/lima)  
+`I added Polish translations for billing-related terms`  
+[commits➚](https://github.com/HeyPuter/puter/commits?author=paulinek13)
+[PRs➚](https://github.com/HeyPuter/puter/pulls?q=is%3Apr+author%3Apaulinek13)
+[issues➚](https://github.com/HeyPuter/puter/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
+
+- ⭐16.6k [**github/docs**](https://github.com/github/docs)  
+_The open-source repo for docs.github.com_  
+`I replaced two characters :)`  
+[commits➚](https://github.com/github/docs/commits?author=paulinek13)
+[PRs➚](https://github.com/github/docs/pulls?q=is%3Apr+author%3Apaulinek13)
+[issues➚](https://github.com/github/docs/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
+
+- ⭐15.9k [**lima-vm/lima**](https://github.com/lima-vm/lima)  
 _Linux virtual machines, with a focus on running containers_  
-`website: remove sidebar search box and enhance the one in the top navigation bar` [➚](https://github.com/lima-vm/lima/pull/3064)
-- ⭐4k [**ghostfolio**](https://github.com/ghostfolio/ghostfolio)  
+`I enhanced the search box in the top navigation bar`  
+[commits➚](https://github.com/lima-vm/lima/commits?author=paulinek13)
+[PRs➚](https://github.com/lima-vm/lima/pulls?q=is%3Apr+author%3Apaulinek13)
+
+- ⭐6.2k [**googleforgames/agones**](https://github.com/googleforgames/agones)  
+_Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes_  
+`I updated the golangci-lint configuration to resolve deprecation warnings`  
+[commits➚](https://github.com/googleforgames/agones/commits?author=paulinek13)
+[PRs➚](https://github.com/googleforgames/agones/pulls?q=is%3Apr+author%3Apaulinek13)
+[issues➚](https://github.com/googleforgames/agones/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
+
+- ⭐5.1k [**ghostfolio/ghostfolio**](https://github.com/ghostfolio/ghostfolio)  
 _Open Source Wealth Management Software_  
-`Feature/improve language localization for pl` [➚](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
-- ⭐50 [**Espanso's Hub**](https://github.com/espanso/hub)  
+`I improved language localization for Polish`  
+[commits➚](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
+[PRs➚](https://github.com/ghostfolio/ghostfolio/pulls?q=is%3Apr+author%3Apaulinek13)
+
+- ⭐56 [**espanso/hub**](https://github.com/espanso/hub)  
 _The official Espanso's package repository_  
-`Add tailwindcss-colors Package to Espanso Hub` [➚](https://github.com/espanso/hub/pull/141)
-- ⭐20 [**TabTabTab**](https://github.com/okaryo/TabTabTab)  
+`I added tailwindcss-colors package to Espanso Hub`  
+[commits➚](https://github.com/espanso/hub/commits?author=paulinek13)
+[PRs➚](https://github.com/espanso/hub/pulls?q=is%3Apr+author%3Apaulinek13)
+
+- ⭐20 [**okaryo/TabTabTab**](https://github.com/okaryo/TabTabTab)  
 _All In One Chrome Tab Manager_  
-`pl-translation` [➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
+`I added Polish translation`  
+[commits➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
+[PRs➚](https://github.com/okaryo/TabTabTab/pulls?q=is%3Apr+author%3Apaulinek13)
+[issues➚](https://github.com/okaryo/TabTabTab/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
 ##
 
