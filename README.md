@@ -1,7 +1,5 @@
 # Hi there, I'm Paulina 👋
 
-I'm currently working on [osress](https://github.com/paulinek13/osress) website
-
 ## Some of my creations
 
 - **[neso](https://neso.vercel.app/)** - Enhanced APOD Explorer
@@ -56,7 +54,8 @@ _Open Source Wealth Management Software_
 
 - ⭐2.1k [**Azure/PyRIT**](https://github.com/Azure/PyRIT)  
 _Python Risk Identification Tool for generative AI (PyRIT)_  
-`I added functions and classes with existing documentation to the pyrit.common API reference`  
+`I integrated functions and classes, complete with documentation, into the pyrit.common API reference`  
+`I enhanced the website by adding a Discord link`  
 [commits➚](https://github.com/Azure/PyRIT/commits?author=paulinek13)
 [PRs➚](https://github.com/Azure/PyRIT/pulls?q=is%3Apr+author%3Apaulinek13)
 
