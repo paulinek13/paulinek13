@@ -12,7 +12,7 @@
 
 ## Open-Source projects I contributed to
 
-⭐2.4k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI (PyRIT)»_  
+⭐2.6k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI (PyRIT)»_  
 ⯀ I **refactored** dataset fetch functions to improve their organization and maintainability  
 ⯀ I **implemented** a simpler way to check which input/output types a converter supports  
 ⯀ I **fixed** various deprecation warnings encountered during `pytest tests/unit`  
@@ -23,7 +23,7 @@
 [PRs➚](https://github.com/Azure/PyRIT/pulls?q=is%3Apr+author%3Apaulinek13)
 [issues➚](https://github.com/Azure/PyRIT/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
-⭐54.7k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
+⭐56k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
 ⯀ I **provided** Polish translation for multiple commands  
 [commits➚](https://github.com/tldr-pages/tldr/commits?author=paulinek13)
 [PRs➚](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Apaulinek13)
@@ -34,42 +34,42 @@
 [PRs➚](https://github.com/googleforgames/agones/pulls?q=is%3Apr+author%3Apaulinek13)
 [issues➚](https://github.com/googleforgames/agones/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
-⭐17.2k [**github/docs**](https://github.com/github/docs) _«The open-source repo for docs.github.com»_  
+⭐17.4k [**github/docs**](https://github.com/github/docs) _«The open-source repo for docs.github.com»_  
 ⯀ I **fixed** some articles to ensure file names are enclosed in backticks  
 [commits➚](https://github.com/github/docs/commits?author=paulinek13)
 [PRs➚](https://github.com/github/docs/pulls?q=is%3Apr+author%3Apaulinek13)
 [issues➚](https://github.com/github/docs/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
-⭐10.5k [**microsoft/STL**](https://github.com/microsoft/STL) _«MSVC's implementation of the C++ Standard Library»_  
+⭐10.7k [**microsoft/STL**](https://github.com/microsoft/STL) _«MSVC's implementation of the C++ Standard Library»_  
 ⯀ I **updated** `_MSVC_STL_UPDATE` macro to February 2025  
 [commits➚](https://github.com/microsoft/STL/commits?author=paulinek13)
 [PRs➚](https://github.com/microsoft/STL/pulls?q=is%3Apr+author%3Apaulinek13)
 
-⭐2.9k [**microsoft/retina**](https://github.com/microsoft/retina) _«eBPF distributed networking observability tool for Kubernetes»_  
+⭐3k [**microsoft/retina**](https://github.com/microsoft/retina) _«eBPF distributed networking observability tool for Kubernetes»_  
 ⯀ I **fixed** broken links to the contributing guide and other retina.sh/docs pages  
 [commits➚](https://github.com/microsoft/retina/commits?author=paulinek13)
 [PRs➚](https://github.com/microsoft/retina/pulls?q=is%3Apr+author%3Apaulinek13)
 [issues➚](https://github.com/microsoft/retina/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
-⭐30.1k [**HeyPuter/puter**](https://github.com/HeyPuter/puter) _«The Internet OS! Free, Open-Source, and Self-Hostable»_  
+⭐33.4k [**HeyPuter/puter**](https://github.com/HeyPuter/puter) _«The Internet OS! Free, Open-Source, and Self-Hostable»_  
 ⯀ I **added** Polish translations for billing-related terms  
 [commits➚](https://github.com/HeyPuter/puter/commits?author=paulinek13)
 [PRs➚](https://github.com/HeyPuter/puter/pulls?q=is%3Apr+author%3Apaulinek13)
 [issues➚](https://github.com/HeyPuter/puter/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
 
-⭐16.6k [**lima-vm/lima**](https://github.com/lima-vm/lima) _«Linux virtual machines, with a focus on running containers»_  
+⭐17.4k [**lima-vm/lima**](https://github.com/lima-vm/lima) _«Linux virtual machines, with a focus on running containers»_  
 ⯀ I **enhanced** the search box in the top navigation bar  
 [commits➚](https://github.com/lima-vm/lima/commits?author=paulinek13)
 [PRs➚](https://github.com/lima-vm/lima/pulls?q=is%3Apr+author%3Apaulinek13)
 
-⭐5.6k [**ghostfolio/ghostfolio**](https://github.com/ghostfolio/ghostfolio) _«Open Source Wealth Management Software»_  
+⭐5.9k [**ghostfolio/ghostfolio**](https://github.com/ghostfolio/ghostfolio) _«Open Source Wealth Management Software»_  
 ⯀ I **improved** language localization for Polish  
 [commits➚](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
 [PRs➚](https://github.com/ghostfolio/ghostfolio/pulls?q=is%3Apr+author%3Apaulinek13)
 
 ⭐2.6k [**rafalp/Misago**](https://github.com/rafalp/Misago) _«Fully featured modern forum application»_ [my commits➚](https://github.com/rafalp/Misago/commits?author=paulinek13)  
-⭐59 [**espanso/hub**](https://github.com/espanso/hub) _«The official Espanso's package repository»_ [my commits➚](https://github.com/espanso/hub/commits?author=paulinek13)  
-⭐31 [**okaryo/TabTabTab**](https://github.com/okaryo/TabTabTab) _«All In One Chrome Tab Manager»_ [my commits➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
+⭐62 [**espanso/hub**](https://github.com/espanso/hub) _«The official Espanso's package repository»_ [my commits➚](https://github.com/espanso/hub/commits?author=paulinek13)  
+⭐41 [**okaryo/TabTabTab**](https://github.com/okaryo/TabTabTab) _«All In One Chrome Tab Manager»_ [my commits➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
 
 ##
 
