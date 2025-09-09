@@ -58,3 +58,7 @@
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+Other projects/repos I contributed to: [HeyPuter/puter](https://github.com/HeyPuter/puter/commits?author=paulinek13), [lima-vm/lima](https://github.com/lima-vm/lima/commits?author=paulinek13), [github/docs](https://github.com/github/docs/commits?author=paulinek13), [microsoft/STL](https://github.com/microsoft/STL/commits?author=paulinek13),  
+[ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13), [microsoft/retina](https://github.com/microsoft/retina/commits?author=paulinek13), [rafalp/Misago](https://github.com/rafalp/Misago/commits?author=paulinek13), [espanso/hub](https://github.com/espanso/hub/commits?author=paulinek13), [okaryo/TabTabTab](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
