@@ -1,6 +1,30 @@
-# Hi there, I'm Paulina 👋
+<img width="64" height="64" alt="slightly-smiling-face_1f642" src="https://github.com/user-attachments/assets/748bf93c-6b63-43ff-9c70-17b35fe00e74" />
 
-## Some of my creations
+## Hi there, I'm `paulinek13`
+
+### Highlights from My Open-Source Contributions
+
+⭐2.9k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI»_  
+» [`#1031`](https://github.com/Azure/PyRIT/pull/1031) Added `TransparencyAttackConverter` that generates dual-perception attack images  
+» [`#847`](https://github.com/Azure/PyRIT/pull/847) Introduced a BREAKING FEATURE that simplifies the creation of word-level converters  
+» [`#1000`](https://github.com/Azure/PyRIT/pull/1000) Implemented a configurable converter for image compression to reduce file size  
+» [`#713`](https://github.com/Azure/PyRIT/pull/713) [`#828`](https://github.com/Azure/PyRIT/pull/828) [`#844`](https://github.com/Azure/PyRIT/pull/844) [`#821`](https://github.com/Azure/PyRIT/pull/821) Added fetch functions for datasets aimed at assessing the safety of LLMs  
+» [`#732`](https://github.com/Azure/PyRIT/pull/732) Proposed and implemented a categorization approach to classify AdvBench examples  
+» [`#785`](https://github.com/Azure/PyRIT/pull/785) Refactored the codebase around datasets to improve organization and maintainability  
+» [`#969`](https://github.com/Azure/PyRIT/pull/969) [`#863`](https://github.com/Azure/PyRIT/pull/863) [`#866`](https://github.com/Azure/PyRIT/pull/866) Enhanced and improved documentation and API references  
+» [_Click here to see all my contributions to **Azure/PyRIT**➚_](https://github.com/Azure/PyRIT/commits?author=paulinek13)
+
+⭐100k [**microsoft/terminal**](https://github.com/microsoft/terminal) _«Windows Terminal, Console and Command-Line repo»_  
+» [`#19127`](https://github.com/microsoft/terminal/pull/19127) Implemented a setting to turn on/off zooming the terminal using Ctrl+scroll  
+» [`#19151`](https://github.com/microsoft/terminal/pull/19151) Introduced an option to adjust opacity with Ctrl+Shift+scroll
+
+⭐59.2k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
+» [`#commits`](https://github.com/tldr-pages/tldr/commits?author=paulinek13) Provided Polish translation for multiple community-maintained help pages
+
+⭐6.5k [**googleforgames/agones**](https://github.com/googleforgames/agones) _«Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes»_  
+» [`#4082`](https://github.com/googleforgames/agones/pull/4082)  Updated the `golangci-lint` configuration to resolve deprecation warnings
+
+### Some of My Creations
 
 » **[neso](https://neso.vercel.app/)** - enhanced front-end to NASA's APOD API, offering a user-friendly interface  
 » [apodify](https://github.com/paulinek13/apodify) - Python tool designed to enhance and enrich the data returned by NASA's APOD API  
@@ -10,68 +34,7 @@
 » [niziek-portfolio](https://niziek-portfolio.pages.dev/) - a photography portfolio website  
 » [sudoku](https://github.com/paulinek13/sudoku) - multipurpose sudoku app written in C++  
 
-## Open-Source projects I contributed to
-
-⭐2.6k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI (PyRIT)»_  
-⯀ I **refactored** dataset fetch functions to improve their organization and maintainability  
-⯀ I **implemented** a simpler way to check which input/output types a converter supports  
-⯀ I **fixed** various deprecation warnings encountered during `pytest tests/unit`  
-⯀ I **enhanced** the website by adding a Discord link with consistent styling  
-⯀ I **added** missing functions/classes with existing documentation to the API reference  
-⯀ and more ...  
-[commits➚](https://github.com/Azure/PyRIT/commits?author=paulinek13)
-[PRs➚](https://github.com/Azure/PyRIT/pulls?q=is%3Apr+author%3Apaulinek13)
-[issues➚](https://github.com/Azure/PyRIT/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
-
-⭐56k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
-⯀ I **provided** Polish translation for multiple commands  
-[commits➚](https://github.com/tldr-pages/tldr/commits?author=paulinek13)
-[PRs➚](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3Apaulinek13)
-
-⭐6.3k [**googleforgames/agones**](https://github.com/googleforgames/agones) _«Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes»_  
-⯀ I **updated** the golangci-lint configuration to resolve deprecation warnings  
-[commits➚](https://github.com/googleforgames/agones/commits?author=paulinek13)
-[PRs➚](https://github.com/googleforgames/agones/pulls?q=is%3Apr+author%3Apaulinek13)
-[issues➚](https://github.com/googleforgames/agones/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
-
-⭐17.4k [**github/docs**](https://github.com/github/docs) _«The open-source repo for docs.github.com»_  
-⯀ I **fixed** some articles to ensure file names are enclosed in backticks  
-[commits➚](https://github.com/github/docs/commits?author=paulinek13)
-[PRs➚](https://github.com/github/docs/pulls?q=is%3Apr+author%3Apaulinek13)
-[issues➚](https://github.com/github/docs/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
-
-⭐10.7k [**microsoft/STL**](https://github.com/microsoft/STL) _«MSVC's implementation of the C++ Standard Library»_  
-⯀ I **updated** `_MSVC_STL_UPDATE` macro to February 2025  
-[commits➚](https://github.com/microsoft/STL/commits?author=paulinek13)
-[PRs➚](https://github.com/microsoft/STL/pulls?q=is%3Apr+author%3Apaulinek13)
-
-⭐3k [**microsoft/retina**](https://github.com/microsoft/retina) _«eBPF distributed networking observability tool for Kubernetes»_  
-⯀ I **fixed** broken links to the contributing guide and other retina.sh/docs pages  
-[commits➚](https://github.com/microsoft/retina/commits?author=paulinek13)
-[PRs➚](https://github.com/microsoft/retina/pulls?q=is%3Apr+author%3Apaulinek13)
-[issues➚](https://github.com/microsoft/retina/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
-
-⭐33.4k [**HeyPuter/puter**](https://github.com/HeyPuter/puter) _«The Internet OS! Free, Open-Source, and Self-Hostable»_  
-⯀ I **added** Polish translations for billing-related terms  
-[commits➚](https://github.com/HeyPuter/puter/commits?author=paulinek13)
-[PRs➚](https://github.com/HeyPuter/puter/pulls?q=is%3Apr+author%3Apaulinek13)
-[issues➚](https://github.com/HeyPuter/puter/issues?q=sort%3Aupdated-desc+is%3Aissue+involves%3Apaulinek13)
-
-⭐17.4k [**lima-vm/lima**](https://github.com/lima-vm/lima) _«Linux virtual machines, with a focus on running containers»_  
-⯀ I **enhanced** the search box in the top navigation bar  
-[commits➚](https://github.com/lima-vm/lima/commits?author=paulinek13)
-[PRs➚](https://github.com/lima-vm/lima/pulls?q=is%3Apr+author%3Apaulinek13)
-
-⭐5.9k [**ghostfolio/ghostfolio**](https://github.com/ghostfolio/ghostfolio) _«Open Source Wealth Management Software»_  
-⯀ I **improved** language localization for Polish  
-[commits➚](https://github.com/ghostfolio/ghostfolio/commits?author=paulinek13)
-[PRs➚](https://github.com/ghostfolio/ghostfolio/pulls?q=is%3Apr+author%3Apaulinek13)
-
-⭐2.6k [**rafalp/Misago**](https://github.com/rafalp/Misago) _«Fully featured modern forum application»_ [my commits➚](https://github.com/rafalp/Misago/commits?author=paulinek13)  
-⭐62 [**espanso/hub**](https://github.com/espanso/hub) _«The official Espanso's package repository»_ [my commits➚](https://github.com/espanso/hub/commits?author=paulinek13)  
-⭐41 [**okaryo/TabTabTab**](https://github.com/okaryo/TabTabTab) _«All In One Chrome Tab Manager»_ [my commits➚](https://github.com/okaryo/TabTabTab/commits?author=paulinek13)
-
-##
+### ;
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
