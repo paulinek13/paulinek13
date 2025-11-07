@@ -4,7 +4,7 @@
 
 ### Highlights from My Open-Source Contributions
 
-⭐2.9k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI»_  
+⭐3k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI»_  
 » [`#1031`](https://github.com/Azure/PyRIT/pull/1031) Added `TransparencyAttackConverter` that generates dual-perception attack images  
 » [`#847`](https://github.com/Azure/PyRIT/pull/847) Introduced a BREAKING FEATURE that simplifies the creation of word-level converters  
 » [`#1000`](https://github.com/Azure/PyRIT/pull/1000) Implemented a configurable converter for image compression to reduce file size  
@@ -18,10 +18,10 @@
 » [`#19127`](https://github.com/microsoft/terminal/pull/19127) Implemented a setting to turn on/off zooming the terminal using Ctrl+scroll  
 » [`#19151`](https://github.com/microsoft/terminal/pull/19151) Introduced an option to adjust opacity with Ctrl+Shift+scroll
 
-⭐59.2k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
+⭐60k [**tldr-pages/tldr**](https://github.com/tldr-pages/tldr) _«Collaborative cheatsheets for console commands»_  
 » [`#commits`](https://github.com/tldr-pages/tldr/commits?author=paulinek13) Provided Polish translation for multiple community-maintained help pages
 
-⭐6.5k [**googleforgames/agones**](https://github.com/googleforgames/agones) _«Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes»_  
+⭐6k [**googleforgames/agones**](https://github.com/googleforgames/agones) _«Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes»_  
 » [`#4082`](https://github.com/googleforgames/agones/pull/4082)  Updated the `golangci-lint` configuration to resolve deprecation warnings
 
 ### Some of My Creations
