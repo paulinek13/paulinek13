@@ -4,15 +4,15 @@
 
 ### Highlights from My Open-Source Contributions
 
-⭐3k [**Azure/PyRIT**](https://github.com/Azure/PyRIT) _«Python Risk Identification Tool for generative AI»_  
-» [`#1031`](https://github.com/Azure/PyRIT/pull/1031) Added `TransparencyAttackConverter` that generates dual-perception attack images  
-» [`#847`](https://github.com/Azure/PyRIT/pull/847) Introduced a BREAKING FEATURE that simplifies the creation of word-level converters  
-» [`#1000`](https://github.com/Azure/PyRIT/pull/1000) Implemented a configurable converter for image compression to reduce file size  
-» [`#713`](https://github.com/Azure/PyRIT/pull/713) [`#828`](https://github.com/Azure/PyRIT/pull/828) [`#844`](https://github.com/Azure/PyRIT/pull/844) [`#821`](https://github.com/Azure/PyRIT/pull/821) Added fetch functions for datasets aimed at assessing the safety of LLMs  
-» [`#732`](https://github.com/Azure/PyRIT/pull/732) Proposed and implemented a categorization approach to classify AdvBench examples  
-» [`#785`](https://github.com/Azure/PyRIT/pull/785) Refactored the codebase around datasets to improve organization and maintainability  
-» [`#969`](https://github.com/Azure/PyRIT/pull/969) [`#863`](https://github.com/Azure/PyRIT/pull/863) [`#866`](https://github.com/Azure/PyRIT/pull/866) Enhanced and improved documentation and API references  
-» [_Click here to see all my contributions to **Azure/PyRIT**➚_](https://github.com/Azure/PyRIT/commits?author=paulinek13)
+⭐3k [**microsoft/PyRIT**](https://github.com/microsoft/PyRIT) _«Python Risk Identification Tool for generative AI»_  
+» [`#1031`](https://github.com/microsoft/PyRIT/pull/1031) Added `TransparencyAttackConverter` that generates dual-perception attack images  
+» [`#847`](https://github.com/microsoft/PyRIT/pull/847) Introduced a BREAKING FEATURE that simplifies the creation of word-level converters  
+» [`#1000`](https://github.com/microsoft/PyRIT/pull/1000) Implemented a configurable converter for image compression to reduce file size  
+» [`#713`](https://github.com/microsoft/PyRIT/pull/713) [`#828`](https://github.com/microsoft/PyRIT/pull/828) [`#844`](https://github.com/microsoft/PyRIT/pull/844) [`#821`](https://github.com/microsoft/PyRIT/pull/821) Added fetch functions for datasets aimed at assessing the safety of LLMs  
+» [`#732`](https://github.com/microsoft/PyRIT/pull/732) Proposed and implemented a categorization approach to classify AdvBench examples  
+» [`#785`](https://github.com/microsoft/PyRIT/pull/785) Refactored the codebase around datasets to improve organization and maintainability  
+» [`#969`](https://github.com/microsoft/PyRIT/pull/969) [`#863`](https://github.com/microsoft/PyRIT/pull/863) [`#866`](https://github.com/microsoft/PyRIT/pull/866) Enhanced and improved documentation and API references  
+» [_Click here to see all my contributions to **microsoft/PyRIT**➚_](https://github.com/microsoft/PyRIT/commits?author=paulinek13)
 
 ⭐100k [**microsoft/terminal**](https://github.com/microsoft/terminal) _«Windows Terminal, Console and Command-Line repo»_  
 » [`#19127`](https://github.com/microsoft/terminal/pull/19127) Implemented a setting to turn on/off zooming the terminal using Ctrl+scroll  
